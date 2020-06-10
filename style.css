@@ -1,0 +1,47 @@
+h1 {
+font-family:cambria;
+padding-left:450px;
+color:grey;
+border: solid 5px grey;
+text-aline:center;
+}
+
+.forTitle {
+
+font-family:cambria;
+color:grey;
+border: solid 5px grey;
+text-aline:center;
+padding:0 600px 0 600px;
+
+
+
+
+}
+
+button {
+
+color:grey;
+background:linear-gradient(45deg,black,grey,white);
+filter:opacity(85%);
+width:440px;
+border: hidden;
+border-radius:10px;
+
+
+}
+
+.ol {
+font-family:MingLiU-ExtB;
+font-size:25px;
+width:440px;
+background-color:white;
+filter:opacity(25%);
+}
+
+
+}
+
+
+
+
